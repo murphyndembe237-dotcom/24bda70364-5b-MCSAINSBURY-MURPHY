@@ -125,8 +125,8 @@ Base URL: `http://localhost:3000/students`
 - **DELETE** `/students/:id`
 
 Validation highlights:
-- `name`: kenyi oliver
-- `roll`: 24BCY70263
+- `name`: murphy
+- `roll`: 24bda70364
 
 ---
 
